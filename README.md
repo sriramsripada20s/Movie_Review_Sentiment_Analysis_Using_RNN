@@ -17,7 +17,7 @@ In this project, I worked with the IMDb dataset, which contains movie reviews al
 
 **Cloud Deployment:** Deployed the Streamlit app to the cloud for wider accessibility.
 
-**Project Architecture**
+## Project Architecture
 Let's outline the architecture of the project:
 
 **Input Data:** The IMDb movie reviews dataset.
@@ -27,6 +27,7 @@ Let's outline the architecture of the project:
 **Simple RNN Model:** Built an RNN model with an embedding layer.
 
 **Training:** Trained the model on the processed data.
+
 **Deployment:** Created a Streamlit web app to interact with the trained model
 
 **Streamlit Web App on Local Machine**
