@@ -34,3 +34,9 @@ Let's outline the architecture of the project:
 ![image](https://github.com/user-attachments/assets/312aa3d0-7c26-4a80-9423-da15913de0d3)
 
 **Deployed Streamlit webapp on Streamlit Cloud**
+
+![image](https://github.com/user-attachments/assets/d66a9f2f-049d-49c1-8eb2-6278a6322346)
+
+Access my streamlit web app using Simple RNN [Here](https://moviereviewsentimentanalysisusingrnn-uku4qprnmfweayiap3ot74.streamlit.app/)
+
+
